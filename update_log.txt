@@ -2,3 +2,13 @@ Update log for the Kinematics repository.
 
 13/11/21 - 5pm onwards - Aryaman
 	Working on code to get Sawyer moving, ideally will write a node that takes in 3d coordinates and has sawyer move to it while preseving end effector orientation. 
+	
+	<build_depend>rospy</build_depend>
+  <build_depend>moveit_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_export_depend>moveit_msgs</build_export_depend>
+  <build_export_depend>geometry_msgs</build_export_depend>
+  <build_export_depend>rospy</build_export_depend>
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>moveit_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
