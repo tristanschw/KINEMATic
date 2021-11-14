@@ -1,0 +1,4 @@
+Update log for the Kinematics repository.
+
+13/11/21 - 5pm onwards - Aryaman
+	Working on code to get Sawyer moving, ideally will write a node that takes in 3d coordinates and has sawyer move to it while preseving end effector orientation. 
